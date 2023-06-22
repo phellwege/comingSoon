@@ -56,9 +56,9 @@ export default (props) => {
                     </div>
                 </div>
                 <div className="socialSection">
-                    <Facebook className="svg"/>
+                    {/* <Facebook className="svg"/>
                     <Pinterest className="svg"/>
-                    <Instagram className="svg"/>
+                    <Instagram className="svg"/> */}
                 </div>
                 <img src={BgMtn} className='Mtn'/>
             </div>
